@@ -1,7 +1,7 @@
 # BLEアーケードコントローラー
 
 ## 概要
-[![](http://img.youtube.com/vi/B_6VpOZqmyI/0.jpg)](https://youtu.be/B_6VpOZqmyI"")
+[![](https://github.com/ayakix/BLEArcadeController/blob/main/images/BLEArcadeController.gif?raw=true)](https://youtu.be/B_6VpOZqmyI"")
 
 アーケードコントローラー型のBLE接続可能な汎用的なコントローラーです。
 
